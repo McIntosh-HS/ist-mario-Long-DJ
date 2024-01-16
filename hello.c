@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Hello, IST!\n");
+	printf("Hello Everybody. I am long\n");
 	return 0;
 }
